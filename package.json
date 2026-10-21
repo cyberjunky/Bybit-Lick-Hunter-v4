@@ -35,7 +35,7 @@
     "express-session": "^1.19.0",
     "fetch-blob": "^3.2.0",
     "finalhandler": "^1.2.0",
-    "follow-redirects": "^1.15.2",
+    "follow-redirects": "^1.16.1",
     "formdata-polyfill": "^4.0.10",
     "forwarded": "^0.2.0",
     "fresh": "^0.5.2",
